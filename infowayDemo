@@ -1,0 +1,7 @@
+package FriendsFB;
+
+public interface Friends {
+		 void StartFrom();
+	}
+
+
